@@ -29,6 +29,11 @@ I samarbeid med offentlige virksomheter bidrar vi til at informasjonen vi formid
 Vi legger til rette for at kommunikasjonen er tilpasset brukers behov og tilpasset der bruker er i brukerreisen. 
 Vi bidrar til at kommunikasjon følger kjente interaksjonsmønstre og at kompliserte oppgaver blir lettere å forstå
 
+3. Det er enkelt å løse oppgavene
+Sammen med andre lager vi sammenhengende brukerflyter som gjør det mulig for brukere å løse sine oppgaver der de er.
+Bruker behøver ikke å sy sammen informasjon fra ulike steder selv.
+
+
 
 
 
