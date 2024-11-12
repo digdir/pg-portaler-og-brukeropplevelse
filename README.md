@@ -16,3 +16,24 @@ Produktgruppen fokuserer på den digitale bruker-opplevelsen, men tar hensyn til
 
 
 <img width="1319" alt="Bilde_test2b" src="https://github.com/user-attachments/assets/bb136be2-3c5d-4396-8031-9024e40d86bc">
+
+Visjon
+Helhetlig brukeropplevelse for alle
+Alle skal «finne, forstå og løse» i kommunikasjonen med det offentlige. Ved å legge til rette for samarbeid, henting og deling på tvers bidrar vi til gjenkjennelige, trygge og sammenhengende tjenester og skaper digitale fellesgoder.
+
+1. Det er enkelt å finne rett informasjon
+Vi legger til rette for at det er lett å finne og få relevant informasjon fra det offentlige. 
+I samarbeid med offentlige virksomheter bidrar vi til at informasjonen vi formidler er oppdatert og til å stole på.
+
+2. Det er enkelt å forstå kommunikasjonen med det offentlige
+Vi legger til rette for at kommunikasjonen er tilpasset brukers behov og tilpasset der bruker er i brukerreisen. 
+Vi bidrar til at kommunikasjon følger kjente interaksjonsmønstre og at kompliserte oppgaver blir lettere å forstå
+
+
+
+
+
+
+
+
+
