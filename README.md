@@ -21,6 +21,7 @@ Produktgruppen fokuserer på den digitale bruker-opplevelsen, men tar hensyn til
 ### Helhetlig brukeropplevelse for alle
 Alle skal «finne, forstå og løse» i kommunikasjonen med det offentlige. Ved å legge til rette for samarbeid, henting og deling på tvers bidrar vi til gjenkjennelige, trygge og sammenhengende tjenester og skaper digitale fellesgoder.
 
+### Mål
 1. Det er enkelt å finne rett informasjon
 Vi legger til rette for at det er lett å finne og få relevant informasjon fra det offentlige. 
 I samarbeid med offentlige virksomheter bidrar vi til at informasjonen vi formidler er oppdatert og til å stole på.
