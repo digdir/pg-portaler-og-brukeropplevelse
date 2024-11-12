@@ -55,9 +55,11 @@ DesignOperations fokuserer på å profesjonalisere design i Digdir og piloteres 
 
 ## 🔗 Links
 https://designsystemet.no/
+
+https://designsystemet.slack.com/
+
 https://info.altinn.no/
 
-
-
+https://www.norge.no/nb
 
 
