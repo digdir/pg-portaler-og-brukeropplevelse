@@ -52,6 +52,13 @@ norge.no startet som et viktig informasjonsnettsted med masse nyttig innhold om 
 ## Om DesignOperations
 DesignOperations fokuserer på å profesjonalisere design i Digdir og piloteres inn i produktgruppen. I vår kontekst vil arbeidsgruppen fasilitere etablering av tverrgående aktiviteter som bidrar til å skape helhet, hospitering, få innpass for å teste ut støtteverktøy for brukertesting, utforske metodikk, retningslinjer og rutiner for innsikt og designmetodikk.
 
+## Involverte
+
+👨‍🎨 Roller i produktgruppen - Produktgruppeleder, Behovsdriver, Senior rådgiver og Head of Design
+
+🧭 Koordinator - Vilde Stixrud
+
+💁‍♀️ Andre deltagere - Produkteier, designlead og techlead fra hvert produktteam
 
 ## 🔗 Links
 https://designsystemet.no/
