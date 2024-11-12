@@ -7,7 +7,7 @@ For å sikre at vi ikke videreutvikler fellesløsningene fragmentert, har vi for
 Produktgruppen Portaler og brukeropplevelse har som formål å forenkle brukerens kommunikasjon med det offentlige. Det inkluderer blant annet enklere etterlevelse av lover og regelverk og bærekraftig digitalisering. 
 Produktgruppen fremmer tettere samarbeid om økt brukskvalitet «på tvers» i utforming og utvikling av digitale fellesgoder og fellesløsninger. Det bidrar til at tjenestene fremstår sammenhengende og helhetlige. Samtidig sparer det samfunnet for store utgifter som kan komme andre tiltak tilgode.
 
-Produktgruppens fokus
+## Produktgruppens fokus
 Brukskvalitet påvirker digital sårbarhet. Utenforskapet forsterkes når brukskvaliteten i digitale tjenester ikke er god nok og når hjelpen er lite tilgjengelig. Alle kan oppleve å være digitalt sårbare i løpet av livet.
 
 Vi fokuserer derfor spesielt på alle som sliter med å bruke det digitale av forskjellige årsaker og deres perspektiver, og har som mål å involvere brukere tidlig i innsiktsfasen for å starte riktig. 
@@ -17,8 +17,8 @@ Produktgruppen fokuserer på den digitale bruker-opplevelsen, men tar hensyn til
 
 <img width="1319" alt="Bilde_test2b" src="https://github.com/user-attachments/assets/bb136be2-3c5d-4396-8031-9024e40d86bc">
 
-Visjon
-Helhetlig brukeropplevelse for alle
+## Visjon
+### Helhetlig brukeropplevelse for alle
 Alle skal «finne, forstå og løse» i kommunikasjonen med det offentlige. Ved å legge til rette for samarbeid, henting og deling på tvers bidrar vi til gjenkjennelige, trygge og sammenhengende tjenester og skaper digitale fellesgoder.
 
 1. Det er enkelt å finne rett informasjon
