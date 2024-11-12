@@ -1,4 +1,3 @@
-# pg-portaler
 # Produktgruppen-Portaler-og-brukeropplevelse
 Digdir lager fellesløsninger som er til gode for samfunnet. Fellesløsninger er små byggeklosser som brukerne kan bruke til å løse sine behov. 
 For å sikre at vi ikke videreutvikler fellesløsningene fragmentert, har vi fordelt dem i seks produktgrupper. 
