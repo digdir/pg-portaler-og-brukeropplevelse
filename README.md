@@ -56,7 +56,7 @@ DesignOperations fokuserer på å profesjonalisere design i Digdir og piloteres 
 
 👨‍🎨 Roller i produktgruppen - Produktgruppeleder, Behovsdriver, Senior rådgiver og Head of Design
 
-🧭 Koordinator - Vilde Stixrud
+🧭 Koordinator - 
 
 💁‍♀️ Andre deltagere - Produkteier, designlead og techlead fra hvert produktteam
 
