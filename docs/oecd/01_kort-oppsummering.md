@@ -32,10 +32,10 @@ Det ble samtidig opprettet dialog med **Skatteetaten (Henriette Vigtel)** om mul
 
 ## 2024 – Produktrådet kobles på og videre arbeid med å forenkle prosessen
 
-Ansvaret for del 5 ble delt mellom **fagområdet design** og den nyetablerte **produktgruppen Portaler og brukeropplevelse**.
+Ansvaret for del 5 ble delt mellom **fagområdet design** og **produktgruppen Portaler og brukeropplevelse**.
 
 Det ble gjort forsøk på å forenkle innsamlingen ved å involvere **Produktrådet** gjennom en struktur for utsvarelse med forhåndsutfylte svar for gjennomgang og kvalitetssikring.  
-Dette ble gjort i et **Miro-brett**, der virksomheter som **NAV**, **Skatteetaten**, **Brønnøysundregistrene**, **KS**, **SSB**, **NHN**, **Helsedir**, **Lånekassen**, **Statens vegvesen** og **Oslo Origo** kunne kommentere og foreslå justeringer.
+Dette ble gjort i et **Miro-brett**, der virksomheter som **Nav**, **Skatteetaten**, **Brønnøysundregistrene**, **KS**, **SSB**, **NHN**, **Helsedir**, **Lånekassen**, **Statens vegvesen** og **Oslo Origo** mf. kunne kommentere og foreslå justeringer.
 
 Innspillene ble deretter manuelt overført til OECDs Excel-mal. Erfaringen viste at prosessen ble mer inkluderende, men fortsatt ressurskrevende.
 
@@ -45,14 +45,14 @@ Digdir ga i denne perioden tilbakemeldinger til **DSS** og **DFØ** om behovet f
 3. eventuell språkhåndtering fra norsk til engelsk, med hensyn til begreper og føringer fra OECD  
 4. selve løsningen for innsending  
 
-**Hanne Fredheim**, **Lis Lonning** og **Sigurd S. Sørensen** koordinerte arbeidet fra Digdirs side.
+**Hanne Fredheim**, **Lis Lonning** og **Sigurd S. Sørensen** koordinerte arbeidet.
 
 ---
 
-## 2025 – Forbedret arbeidsform og planlegging av ny metode
+## 2025 – Ny arbeidsform og planlegging av ny metode
 
-Arbeidet ble videreført i **produktgruppen Portaler og brukeropplevelse**, nå med en mer strukturert og koordinert tilnærming.  
-Det ble lagt vekt på felles begrepsforståelse, tydeligere dokumentasjonskrav og direkte involvering av virksomhetene.
+Arbeidet ble videreført i **produktgruppen Portaler og brukeropplevelse**.  
+Det blir lagt vekt på felles begrepsforståelse, dokumentasjonskrav og direkte involvering av virksomhetene.
 
 Samtidig ble det startet et arbeid for å **utforske nye måter å samle inn data på**, for å erstatte dagens manuelle prosess og unngå å arbeide direkte i Excel.  
 
