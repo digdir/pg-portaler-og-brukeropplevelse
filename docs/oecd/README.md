@@ -1,4 +1,4 @@
-# OECD Digital Government Index – Norge (Del 5)
+# OECD Digital Government Index Survey – Norge (Del 5)
 
 Dette området dokumenterer arbeidet som Digdir gjør for å svare ut **OECD Digital Government Index (DGI) del 5 – Service Design and Delivery in the Digital Age**.
 
