@@ -3,9 +3,7 @@
 Dette området dokumenterer arbeidet som Digdir gjør for å svare ut **OECD Digital Government Index (DGI) Survey del 5 – Service Design and Delivery in the Digital Age**.
 
 ## 📘 Innhold
-- [Kort oppsummering 2022–d.d.](01_kort-oppsummering.md)
-- [År-for-år (narrativ)](02_ar-for-ar.md)
-- [Kronologitabell](03_kronologitabell.md)
+- [Historikk 2022–2026 (kort oppsummering)](01_kort-oppsummering.md)
 - [Datainnsamling og test i Altinn Studio](04_datainnsamling-altinn-test.md)
 - [Evidens og kilder (CSV)](evidence.csv)
 
