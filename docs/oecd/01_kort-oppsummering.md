@@ -10,7 +10,7 @@ Innenfor dette arbeidet har **produktgruppen Portaler og brukeropplevelse** og *
 Tidligere har KDD svart ut OECD DGI Survey, men delegert dette arbeidet til Kunnskap og analyse i Digdir.  
 Fagområdet design i Digdir fikk forespørsel fra Kunnskap og analyse om å svare ut OECD DGI del 5 – Service Design and Delivery in the Digital Age.
 
-Arbeidet ble ledet av Lis Lonning og India Anderson i samarbeid med Sigurd Sørensen, og med veiledning fra Eli Anne Eggum (koordinator for arbeidet), Øystein Åsnes og Arvid Bro Thuestad i Kunnskap og analyse.
+Arbeidet ble ledet av Lis og India i samarbeid med Sigurd Sørensen, og med veiledning fra Eli Anne (koordinator for arbeidet), Øystein og Arvid i Kunnskap og analyse.
 
 Lis og India jobbet systematisk med manuell datainnsamling fra virksomheter som Digdir, NAV, Skatteetaten, Brønnøysundregistrene og UDI m.fl.  
 Prosessen startet i OECDs Excel-mal for utsvaring, men viste seg raskt å være tungvint for versjonering og tekstjustering.  
@@ -24,7 +24,7 @@ Kunnskap og analyse (DSS) kvalitetssikret svarene, og KDD fikk helhetsgjennomgan
 OECD gjennomførte en valideringsrunde der Norge måtte dokumentere flere svar på nytt.  
 Digdir korrigerte og forbedret dokumentasjonen for spørsmål som Q80, 80a, 82, 83, 85a og 86, og la til lenker til offentlige kilder.
 
-Arbeidet ble koordinert mellom Lis Lonning, India Anderson, Sigurd S. Sørensen og Kunnskap og analyse (DSS).  
+Arbeidet ble koordinert mellom Lis, India, Sigurd og Kunnskap og analyse (DSS).  
 Det ble samtidig opprettet dialog med Skatteetaten om muligheter for felles rutiner for brukerundersøkelser og deling av innsiktsdata – et tidlig forsøk på å standardisere datainnhentingen.  
 Katrine Ødegård Alm overtok rollen som koordinator av OECD DGI Survey.
 
@@ -45,7 +45,7 @@ Digdir ga i denne perioden tilbakemeldinger til DSS og DFØ om behovet for en me
 3. eventuell språkhåndtering fra norsk til engelsk, med hensyn til begreper og føringer fra OECD  
 4. selve løsningen for innsending  
 
-Hanne Fredheim**, Lis Lonning og Sigurd S. Sørensen koordinerte arbeidet.
+Hanne Fredheim**, Lis og Sigurd koordinerte arbeidet.
 
 ---
 
