@@ -1,0 +1,29 @@
+# Felles labels for Portaler og brukeropplevelse
+- name: pg-mål:finne
+  color: '0E8A16'
+  description: Bidrag til Mål 1 — Finne
+- name: pg-mål:forstå
+  color: '5319E7'
+  description: Bidrag til Mål 2 — Forstå
+- name: pg-mål:løs
+  color: '1D76DB'
+  description: Bidrag til Mål 3 — Løse
+
+- name: pg-spor:innhold
+  color: 'c2e0c6'
+  description: Spor — innhold/forvaltning/kvalitet
+- name: pg-spor:mønstre
+  color: 'd4c5f9'
+  description: Spor — felles mønstre
+- name: pg-spor:komponenter
+  color: 'bfdadc'
+  description: Spor — gjenbrukbare komponenter & UU
+- name: pg-spor:dialog
+  color: 'f9d0c4'
+  description: Spor — tverretatlig dialog/sammenhengende meldinger
+- name: pg-spor:overblikk
+  color: 'fef2c0'
+  description: Spor — overblikk/brukerreise
+- name: pg-spor:assistent
+  color: 'e99695'
+  description: Spor — proaktive/hendelsesutløste tjenester og assistenter
