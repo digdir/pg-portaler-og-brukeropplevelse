@@ -12,8 +12,6 @@ Dette området dokumenterer arbeidet som produktgruppen Portaler og brukeropplev
 - [#5 – Pilot for fleksibel datainnsamling (OECD 2026)](https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/5)
 - [#65 – Internt arbeid med oppdatering av OECD basert på innspill] (https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/65)
 - Internt arbeid med oppdatering av OECD basert på innspill #65
-- #65
-- https://github.com/orgs/digdir/projects/31/views/7?pane=issue&itemId=134513687&issue=digdir%7Cpg-portaler-og-brukeropplevelse%7C65
 
 
 ---
