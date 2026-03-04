@@ -10,7 +10,7 @@ Dette området dokumenterer arbeidet som produktgruppen Portaler og brukeropplev
 ## 📂 Relevante issues
 - [#64 – Test av Power Apps og Altinn Apps](https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/64)
 - [#5 – Pilot for fleksibel datainnsamling (OECD 2026)](https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/5)
-- https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/65
+- #65 – Internt arbeid med oppdatering av OECD basert på innspill (https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/65)
 
 ---
 💡 **Formål:** Sikre en dokumentert, etterprøvbar og inkluderende prosess for DGI del 5.  
