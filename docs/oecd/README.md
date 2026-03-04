@@ -1,6 +1,6 @@
 # OECD Digital Government Index Survey – Norge (Del 5)
 
-Dette området dokumenterer arbeidet som Digdir gjør for å svare ut **OECD Digital Government Index (DGI) Survey del 5 – Service Design and Delivery in the Digital Age**.
+Dette området dokumenterer arbeidet som produktgruppen Portaler og brukeropplevelse gjør for å bidra Digdir i å svare ut **OECD Digital Government Index (DGI) Survey del 5 – Service Design and Delivery in the Digital Age**.
 
 ## 📘 Innhold
 - [Historikk 2022–2026 (kort oppsummering)](01_kort-oppsummering.md)
