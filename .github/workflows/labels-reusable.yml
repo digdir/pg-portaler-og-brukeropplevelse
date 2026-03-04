@@ -1,0 +1,28 @@
+name: labels-reusable
+
+on:
+  workflow_call:
+    inputs:
+      labels_path:
+        required: false
+        type: string
+        default: .github/labels.yml
+
+jobs:
+  sync-labels:
+    permissions:
+      contents: read
+      issues: write
+      pull-requests: write
+      metadata: read
+      repository-projects: read
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Sync labels
+        uses: crazy-max/ghaction-github-labeler@v5
+        with:
+          yaml_file: ${{ inputs.labels_path }}
+          dry_run: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
