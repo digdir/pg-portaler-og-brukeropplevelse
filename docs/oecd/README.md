@@ -11,7 +11,7 @@ Dette området dokumenterer arbeidet som produktgruppen Portaler og brukeropplev
 - [#64 – Test av Power Apps og Altinn Apps](https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/64)
 - [#5 – Pilot for fleksibel datainnsamling (OECD 2026)](https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/5)
 - [#65 – Internt arbeid med oppdatering av OECD basert på innspill] (https://github.com/digdir/pg-portaler-og-brukeropplevelse/issues/65)
-- Internt arbeid med oppdatering av OECD basert på innspill #65
+
 
 
 ---
